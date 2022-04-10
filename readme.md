@@ -4,4 +4,5 @@ Konwenteruje czas Unixowy na czas Smoleński.
 ```js
 smolensk(new Date());
 // bądź dowolna inna data
+// example output: 378717302
 ```
